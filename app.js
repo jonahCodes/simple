@@ -32,7 +32,7 @@ app.use(require("express-session")({
   saveUninitialized:false
 }));
 //=============================
-//APP.USE \functions
+//APP.USE \functionsas
 //
 
 app.use(passport.initialize());
